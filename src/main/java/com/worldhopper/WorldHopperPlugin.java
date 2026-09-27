@@ -61,7 +61,7 @@ public class WorldHopperPlugin extends Plugin
 	private static final Duration HOP_BUTTON_RETRY_COOLDOWN = Duration.ofMillis(600);
 	private static final int MAX_QUICK_HOP_ATTEMPTS = 3;
 
-	private static final String CONFIG_GROUP = "worldhopper";
+	private static final String CONFIG_GROUP = "randomworldhopperpp";
 	private static final String KEY_WORLD_COOLDOWNS = "worldCooldowns";
 	private static final Color TAG_COLOR = new Color(160, 32, 240);
 	// Skill Total worlds' minimum total level only comes through as free text in

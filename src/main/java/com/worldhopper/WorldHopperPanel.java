@@ -33,7 +33,7 @@ import net.runelite.client.ui.PluginPanel;
 
 public class WorldHopperPanel extends PluginPanel
 {
-	private static final String CONFIG_GROUP = "worldhopper";
+	private static final String CONFIG_GROUP = "randomworldhopperpp";
 	private static final int VISIBLE_ROWS = 16;
 	private static final int ROW_HEIGHT = 20;
 

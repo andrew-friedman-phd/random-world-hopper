@@ -6,7 +6,7 @@ import net.runelite.client.config.ConfigItem;
 import net.runelite.client.config.ConfigSection;
 import net.runelite.client.config.Range;
 
-@ConfigGroup("worldhopper")
+@ConfigGroup("randomworldhopperpp")
 public interface WorldHopperConfig extends Config
 {
 	@Range(min = 1, max = 120)
